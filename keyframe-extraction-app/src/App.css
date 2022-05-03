@@ -1,0 +1,39 @@
+.main_vid_upload_form{
+  margin-left: 20px;
+  padding-right: 20px;
+}
+.button{
+  margin-left:12px;
+}
+.default_background{
+  background-color: #181a1b;
+}
+.secondary_inner_background{
+  background-color: #545657;
+}
+.card_default_border{
+  border-style: solid;
+  border-width:.1rem;
+  border-color: rgb(53, 58, 60);
+}
+.default_border{
+  border-radius: 25px;
+  border-style: solid;
+  border-width:.2rem;
+  border-color: rgb(53, 58, 60);
+}
+.default_border_no_curve{
+  border-style: solid;
+  border-width:.2rem;
+  border-color: rgb(53, 58, 60);
+}
+.tertiary_inner_background{
+  background-color: rgb(32, 35, 42);
+}
+.text_default_color{
+  color:#fffffe;
+}
+
+.icon_colour{
+  color:#000000
+}

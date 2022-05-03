@@ -1,0 +1,34 @@
+.main-dropdown-method-container{
+    display:flex;
+    align-items: center;
+    width:fit-content
+}
+.input-text-form{
+    width:60% ! important
+}
+.form-dropdown-elements-container{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.dropdown-elements-title{
+    padding-right: 12px;
+}
+.option-container{
+    display:flex;
+}
+.single-option-container{
+    justify-content: center;
+}
+.option-container-outer{
+    margin-bottom:20px;
+}
+.top-dropdown-container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.drop-down-right-icon{
+    margin-left:20px;
+    font-size: 150%;
+}

@@ -1,0 +1,25 @@
+.down-icon{
+    font-size:70px;
+    margin-top:12px;
+    margin-bottom:12px;
+    color:#ffffff;
+}
+.video-display-component{
+    padding:16px;
+    
+
+}
+.image-display-container{
+    display: flex;
+    justify-content: center;
+}
+.image-display-inner-container{
+    margin-right:10px;
+    margin-left:10px;
+    padding: 16px;
+
+}
+.vid-picture-component-container{
+    padding:16px;
+    width:80%;
+}

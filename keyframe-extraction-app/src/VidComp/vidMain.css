@@ -1,0 +1,38 @@
+.vid_app_container{
+    padding-top:20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.form_data_container{
+    width:80%;
+}
+.upload_file_container{
+    padding-left:30px;
+    padding-right:30px;
+}
+.form_data_inner_container{
+    background-color: rgb(255, 255, 255);
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:20px;
+    padding-bottom:20px;
+    border-radius: 25px;
+
+}
+#start_button{
+    padding-left:16px;
+    padding-right:16px;
+    padding-top:8px;
+    padding-bottom:8px;
+}
+.carousel-outer-container{
+    background-color: rgb(255, 255, 255);
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:20px;
+    padding-bottom:12px;
+    border-radius: 25px;
+    width:80%;
+}
