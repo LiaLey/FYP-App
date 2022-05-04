@@ -418,10 +418,10 @@ class VidMain extends Component{
                 <div className = "vid_app_container">
                     <h1 className="text_default_color">Key Frame Extraction Tool</h1>
                     <br />
-                    <h5 className="text_default_color">An interface that allows you to experiment with with some of the classic extraction methods to perform Key-frame Extraction/Video Summarizarion</h5>
+                    <h5 className="text_default_color">An interface that allows you to experiment with some of the classic methods of Key-frame Extraction/Video Summarization</h5>
                     <div className= "form_data_container">
                         <div className="mb-3 upload_file_container">
-                            <label htmlFor="fileToUpload" className="col-form-label">Only .mp4 and .webm are supported.</label>
+                            <label htmlFor="fileToUpload" className="col-form-label text_default_color">Only .mp4 supported.</label>
                             <input type="file" name="fileToUpload" id="fileToUpload" className="form-control" data-testid="fileToUpload"/>
                             {this.handle_render_alert_file_upload()}
                         </div>
