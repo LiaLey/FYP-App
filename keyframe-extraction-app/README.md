@@ -2,9 +2,18 @@
 
 1. Make sure you have npx and node.js installed
 
-2. npm install the dependencies
+2. Install dependencies
 
-3. npm start to launch the app
+Open the terminal:
+
+```
+npm install
+```
+3. launch the app
+
+```
+npm start
+```
 
 In the project directory, you can run:
 
